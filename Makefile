@@ -1,10 +1,14 @@
-.PHONY: build watch
+.PHONY: clean build watch
 
+all: build
 
-build:
+clean:
+	rm -rf lib
+
+build: clean
 	babel src --out-dir lib --copy-files
 
-watch:
+watch: clean
 	babel src --out-dir lib --watch --copy-files
 
 test:

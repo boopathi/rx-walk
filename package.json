@@ -1,10 +1,11 @@
 {
   "name": "rx-walk",
   "version": "0.0.1",
-  "description": "",
+  "description": "Observalbe interface for node-walk",
   "main": "lib/rx-walk.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test",
+    "postinstall": "make build"
   },
   "author": "boopathi",
   "license": "MIT",
