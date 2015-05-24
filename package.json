@@ -1,6 +1,6 @@
 {
   "name": "rx-walk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Observalbe interface for node-walk",
   "main": "lib/rx-walk.js",
   "scripts": {
