@@ -1,5 +1,7 @@
 # rx-walk
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/boopathi/rx-walk.svg)](https://greenkeeper.io/)
+
 Observable interface for [node-walk](https://www.npmjs.com/package/walk)
 
 [![Build Status](https://travis-ci.org/boopathi/rx-walk.svg?branch=master)](https://travis-ci.org/boopathi/rx-walk) [![Dependency Status](https://david-dm.org/boopathi/rx-walk.svg)](https://david-dm.org/boopathi/rx-walk)
